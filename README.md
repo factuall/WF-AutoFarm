@@ -1,5 +1,10 @@
 # WolniFarmerzyBot
-Simple bot that automates repetitive activities in WolniFarmerzy.pl
+
+Simple bot that automates repetitive activities in web game WolniFarmerzy.pl
+Repo almost only for getting me to learn basics of Git, GitHub
+It's one of my first encounters with JS, don't expect good code...
+
+## Project only for learning purposes! Do not cheat in games!
 
 How to install **Multiple use**:
   1. Install Tampermonkey in your browser
